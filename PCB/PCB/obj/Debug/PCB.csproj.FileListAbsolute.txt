@@ -1,0 +1,57 @@
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\bin\Debug\PCB.exe.config
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\bin\Debug\PCB.exe
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\bin\Debug\PCB.pdb
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.csproj.AssemblyReference.cache
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.AuthorizationForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCBuilder.CodeForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.Properties.Resources.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCBuilder.RegistrationForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.csproj.GenerateResource.cache
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.csproj.CoreCompileInputs.cache
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.exe
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.pdb
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.FormComponentSelection.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCBuilder.FormIdTG.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCBuilder.MainForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCBuilder.newBuildPc.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.ShablonForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\новая программа\PCB\PCB\obj\Debug\PCB.FormRec.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\bin\Debug\PCB.exe.config
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\bin\Debug\PCB.exe
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\bin\Debug\PCB.pdb
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.csproj.AssemblyReference.cache
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.AuthorizationForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCBuilder.CodeForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.FormComponentSelection.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCBuilder.FormIdTG.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.FormRec.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCBuilder.MainForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCBuilder.newBuildPc.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.Properties.Resources.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCBuilder.RegistrationForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.ShablonForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.csproj.GenerateResource.cache
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.csproj.CoreCompileInputs.cache
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.exe
+C:\Users\facec\OneDrive\Рабочий стол\PCB\PCB\obj\Debug\PCB.pdb
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.csproj.AssemblyReference.cache
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.AuthorizationForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCBuilder.CodeForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.FormComponentSelection.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCBuilder.FormIdTG.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.FormRec.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCBuilder.MainForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCBuilder.newBuildPc.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.Properties.Resources.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCBuilder.RegistrationForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.ShablonForm.resources
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.csproj.GenerateResource.cache
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.csproj.CoreCompileInputs.cache
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.exe
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\obj\Debug\PCB.pdb
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\bin\Debug\PCB.exe.config
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\bin\Debug\PCB.exe
+C:\Users\facec\OneDrive\Рабочий стол\программа для диплома\PCB\PCB\bin\Debug\PCB.pdb

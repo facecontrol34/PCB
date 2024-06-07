@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCB", "PCB\PCB.csproj", "{485111D9-A580-4464-83AD-1FE2F361033E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485111D9-A580-4464-83AD-1FE2F361033E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485111D9-A580-4464-83AD-1FE2F361033E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485111D9-A580-4464-83AD-1FE2F361033E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485111D9-A580-4464-83AD-1FE2F361033E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C2D2713-9FE2-4759-A14B-5241DD13C5F5}
+	EndGlobalSection
+EndGlobal
